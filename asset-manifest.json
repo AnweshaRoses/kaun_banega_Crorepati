@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/kaun_banega_Crorepati/static/css/main.c49a46c4.css",
+    "main.js": "/kaun_banega_Crorepati/static/js/main.2df3b4a4.js",
+    "static/js/845.0eafcafe.chunk.js": "/kaun_banega_Crorepati/static/js/845.0eafcafe.chunk.js",
+    "static/media/bg.jpg": "/kaun_banega_Crorepati/static/media/bg.c137ccd722d64133b4df.jpg",
+    "static/media/src_sounds_play.mp3": "/kaun_banega_Crorepati/static/media/src_sounds_play.8e5f6d1d81d4e1414b95.mp3",
+    "static/media/src_sounds_correct.mp3": "/kaun_banega_Crorepati/static/media/src_sounds_correct.160572d72c858155072e.mp3",
+    "static/media/src_sounds_wrong.mp3": "/kaun_banega_Crorepati/static/media/src_sounds_wrong.e946821894ae9b0a0d6f.mp3",
+    "index.html": "/kaun_banega_Crorepati/index.html",
+    "main.c49a46c4.css.map": "/kaun_banega_Crorepati/static/css/main.c49a46c4.css.map",
+    "main.2df3b4a4.js.map": "/kaun_banega_Crorepati/static/js/main.2df3b4a4.js.map",
+    "845.0eafcafe.chunk.js.map": "/kaun_banega_Crorepati/static/js/845.0eafcafe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c49a46c4.css",
+    "static/js/main.2df3b4a4.js"
+  ]
+}
