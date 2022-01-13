@@ -276,7 +276,7 @@ function App() {
     },
     {
       id:13,
-      question: "How many languges can I understand and speak",
+      question: "How many languages can I understand and speak",
       answers:[
         {
           text: "2",
@@ -320,7 +320,7 @@ function App() {
     },
     {
       id:15,
-      question: "Who will you do with this money?",
+      question: "What will you do with this money?",
       answers:[
         {
           text: "Buy new House for you",
